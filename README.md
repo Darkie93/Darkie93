@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darkie93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java Developer 
+- 🌱 I’m currently learning node js
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...@vijaytej39 on Instagram 
 
 <!---
